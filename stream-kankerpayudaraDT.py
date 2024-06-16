@@ -24,7 +24,7 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 from sklearn.linear_model import LogisticRegression
 
 # load save model
-model = pickle.load(open('penyakit_kankerpayudaraDT.sav','rb'))
+model = pickle.load(open('penyakit_kankerpayudaradt.sav','rb'))
 
 # judul web
 st.title('Klasifikasi Penyakit Kanker Payudara dengan Algorithma Decision Tree')
