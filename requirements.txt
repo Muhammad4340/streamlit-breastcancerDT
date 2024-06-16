@@ -2,6 +2,5 @@ numpy
 pandas
 streamlit
 pip
-pickle
-scikit-learn
+scikit-learn==1.2.2
 seaborn
