@@ -3,3 +3,6 @@ pandas
 streamlit
 pip
 scikit-learn
+seaborn
+matplotlib.pyplot
+imblearn.datasets
